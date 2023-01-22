@@ -3,7 +3,7 @@
 <br>
 <br>
 <div>
-<img alt="imagem curso Praticando HTML/CSS: html e css" src="https://github.com/Feuchard/Alura-Plus-2023/blob/main/assets/img/html-e-css-praticando-html-css">
+<img alt="imagem curso Praticando HTML/CSS: html e css" src="https://github.com/Feuchard/Alura-Plus-2023/blob/main/assets/img/html-e-css-praticando-html-css.png">
 <br>
 <br>
   <ul>
